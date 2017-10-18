@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Ahora otra cosa diferente al hola mundo" << endl;
+    cout << "hola mundo" << endl;
     return 0;
 }
