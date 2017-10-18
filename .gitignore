@@ -3,3 +3,6 @@
 ################################################################################
 
 *.opendb
+/Visual/Visual/Visual.vcxproj.filters
+*.vcxproj
+*.filters

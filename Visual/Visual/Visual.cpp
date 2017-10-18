@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hoola mundo desde Visual");
+	printf("Hoola mundo haciendo click dentro de visual");
 	return 0;
 }
