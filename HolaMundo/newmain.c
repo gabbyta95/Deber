@@ -6,7 +6,7 @@
 
 /* 
  * File:   newmain.c
- * Author: DANIELAROSERO
+ * Author: GABRIELAROSERO
  *
  * Created on 18 de octubre de 2017, 20:09
  */
